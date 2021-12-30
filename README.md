@@ -1,7 +1,7 @@
 ### Hi there 👋
 📫 How to reach me: [shikharvashistha@duck.com](mailto:shikharvashistha@duck.com)
 
-💻 Hire me: [poly.work/shikharvashistha](https://www.polywork.com/shikharvashistha)
+💻 Hire me: [poly.work/shikharvashistha](https://poly.work/shikharvashistha/contact)
 
 <!--
 **shikharvashistha/shikharvashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
