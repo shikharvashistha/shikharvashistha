@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://shikhar.vercel.app/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/about/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/categories/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/notes/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/posts/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/tags/</loc>
+    </url>
+    <url>
+        <loc>https://shikhar.vercel.app/upcoming/</loc>
+    </url>
+</urlset>
