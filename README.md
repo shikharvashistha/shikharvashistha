@@ -1,6 +1,10 @@
 ### Hi there 👋
 📫 How to reach me: [e-mail](mailto:shikharvashistha@duck.com)
 
+#### ⚡ Try Out (Latest): 
+
+- [17/07/2026] paperTeX (Yet another browser-based local/GDrive LaTeX editor): https://papertex.pages.dev && https://shikharvashistha.github.io/paperTeX
+
 <!--💻 Hire me: [shikharvashistha](https://in.linkedin.com/in/shikharvashistha)
 
 **shikharvashistha/shikharvashistha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
