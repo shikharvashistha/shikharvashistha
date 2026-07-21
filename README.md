@@ -3,7 +3,7 @@
 
 #### ⚡ Try Out (Latest): 
 
-- [17/07/2026] **paperTeX** (Yet another browser-based local/GDrive LaTeX editor): Try at [<img width="100" height="40" alt="image" src="https://github.com/user-attachments/assets/55b59c4f-1175-48a7-be17-c0ce83e383b7"/>](https://papertex.pages.dev/projects) or [<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/7bab7f5b-a880-4eb7-9d7f-a0244081fe44"/>](https://shikharvashistha.github.io/paperTeX/projects).
+- [17/07/2026] **paperTeX** (Yet another browser-based local/GDrive LaTeX editor): Try at [<img width="60" height="25" alt="image" src="https://github.com/user-attachments/assets/55b59c4f-1175-48a7-be17-c0ce83e383b7"/>](papertex.pages.dev) or [<img width="100" height="20" alt="image" src="https://github.com/user-attachments/assets/7bab7f5b-a880-4eb7-9d7f-a0244081fe44"/>](https://shikharvashistha.github.io/paperTeX).
 
 <!--💻 Hire me: [shikharvashistha](https://in.linkedin.com/in/shikharvashistha)
 
